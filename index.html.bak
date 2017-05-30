@@ -3,29 +3,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<link rel="icon" href="favicon.gif" type="image/gif" sizes="16x16">
     <title>Srikanth Puli</title>
     <link href="StyleSheet.css" rel="stylesheet" />
 </head>
 <body style="color:white" class="backimg">
     <form id="form1" runat="server">
-        <div class="container">
-		<div class="navbar">
-		<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="#">Products</a>
-		<ul>
-		<li><a href="http://dailycodetask.blogspot.in/" target="_blank">DailyCodeTask</a></li>
-		<li><a href="http://movieblog.cf/" target="_blank">movieblog</a></li>
-		<li><a href="#">ComingSoon</a></li>
-		</ul>
-		</li>
-		<li><a href="#">About Us</a></li>
-		<li><a href="#">Contact Us</a></li>
-		</ul>
-		
-		</div>
-		
+        <div class="mask">
     <div class="center">
 
        <h1>HI</h1>

@@ -1,19 +1,15 @@
-﻿body{
-	margin:0px;
-	padding:0px;
-}
-
-
-.backimg {
+﻿.backimg {
     background-image: url('background.jpg');
 	background-color:black;
     background-attachment: fixed;
     background-repeat: no-repeat;
     display: block;
-	
     background-position: center center;
     background-size: cover;
 }
+
+
+
 .center {
     text-align:  center;
 
@@ -27,68 +23,35 @@
    
     margin-left: -200px;
 }
+
+
 h1{
     text-shadow:2px 2px black;
     font-style: oblique italic;
     font-size:80px;
 }
+
 p{
     font-size:x-large;
 }
+
 .buttons {
     width:200px;
     height:50px;
     text-align:center;
     padding-left:100px;
 }
-p a {
+
+
+a {
     text-decoration: none;
     color: black;
     background-color: lightgreen;
     display: block;
 }
-p a:hover{
+
+a:hover{
     background-color:darkcyan;
     text-shadow:2px 2px black;
     color:white;
-}
-
-ul{
-	margin:0px;
-	padding:0px;
-	
-	
-}
-
-ul li a{
-	text-decoration:none;
-	color:white;
-	display:block;
-}
-
-ul li{
-	text-decoration:none;
-	float:left;
-	width:100px;
-	height:40px;
-	font-size:20px;
-	line-height:40px;
-	text-align:center;
-	margin:0px 20px;
-	display:block;
-	
-	
-}
-
-ul li a:hover{
-background-color:lightgreen;
-color:black;
-}
-
-ul li ul li{display:none;
-}
-
-ul li:hover ul li{
-	display:block;
-
 }

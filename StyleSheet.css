@@ -1,0 +1,56 @@
+﻿.backimg {
+    background-image: url('background.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: block;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+.center {
+    text-align:  center;
+
+    height: 200px;
+    width: 400px;
+    
+
+    position: fixed;
+    top: 25%;
+    left: 50%;
+   
+    margin-left: -200px;
+}
+
+
+h1{
+    text-shadow:2px 2px black;
+    font-style: oblique italic;
+    font-size:80px;
+}
+
+p{
+    font-size:x-large;
+}
+
+.buttons {
+    width:200px;
+    height:50px;
+    text-align:center;
+    padding-left:100px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    display: block;
+}
+
+a:hover{
+    background-color:darkcyan;
+    text-shadow:2px 2px black;
+    color:white;
+}

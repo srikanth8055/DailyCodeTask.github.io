@@ -1,0 +1,30 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="index.aspx.cs" Inherits="index" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Srikanth Puli</title>
+    <link href="StyleSheet.css" rel="stylesheet" />
+</head>
+<body style="color:white" class="backimg">
+    <form id="form1" runat="server">
+        <div class="mask">
+    <div class="center">
+
+       <h1>HI</h1>
+
+        <p>Am sure going to keep something here soon until go through my blog and subscribe.</p>
+
+        
+            <div class="buttons">
+                
+                <p><a href="http://dailycodetask.blogspot.in/"; target="_blank">DailyCodeTask</a></p> 
+
+            </div>
+        
+    </div>
+            </div>
+    </form>
+</body>
+</html>
